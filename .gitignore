@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Azure / secrets
+.env
+*.key
+*.pem
+
+# Large generated files
+*.zip
+*.tar
+*.gz
