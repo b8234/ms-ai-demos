@@ -1,0 +1,8 @@
+dotenv
+aiohttp
+pyaudio
+azure-identity
+azure-ai-voicelive
+python-dotenv
+sounddevice
+numpy
